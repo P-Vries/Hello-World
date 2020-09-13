@@ -1,7 +1,7 @@
 /*************************************************
     Hello World! version 1.0
     Author: Pim de Vries, 2020
-    email: pimschellinkhout@gmai.com
+    email: pimschellinkhout@gmail.com
 
     Changes:
     Deze Comments toegevoegd
